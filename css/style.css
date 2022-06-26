@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+ text-align: center;
+ padding-top: 7rem;
+}
+.box h1{
+    color: rgb(211, 211, 17);
+}
+.box input{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom:1px solid rgb(211, 211, 17);
+    color: white;
+    font-size: 2rem;
+}
+.box h2{
+    color: white;
+    font-size: 2.5rem;
+}
+#maindiv {
+
+background-position: center;
+background-size: cover;
+height: 100vh;
+}
